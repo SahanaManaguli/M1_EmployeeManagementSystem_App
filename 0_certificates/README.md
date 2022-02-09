@@ -10,4 +10,5 @@
 
 
 * Screenshot of Hackerearth Points
-[hack_200](https://user-images.githubusercontent.com/98841253/152681815-268317a1-7411-4d65-aebb-d9d78e908876.JPG)
+![Screenshot (404)](https://user-images.githubusercontent.com/98841253/153181769-35a6ecc9-4628-430f-9a45-7fb1a9946027.png)
+
