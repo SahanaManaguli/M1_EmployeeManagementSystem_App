@@ -6,7 +6,7 @@ The mini-project “Employee Record System Project in C” is a console applicat
 |:---------------|:--------------------------------------------------------------|
 |0_Certificates  |Documents of certificates and screenshots with respect to C language|
 |1_Requirements  |Description of project,High level and low level requirements,SWOT analysis and 4W'S&1H|
-|2_Architecture  |Documentation of Behaviorl and Structural Diagrams with respect HLR and LLR|
+|2_Architecture  |Documentation of Behavioral and Structural Diagrams with respect HLR and LLR|
 |3_Implementation|All codes  and documentation of makefile,inc,src etc|
 |4_TestPlanandOutput|Documents with test plans and status
 |5_Report        |Documentation of all folders and videos of mini project|
