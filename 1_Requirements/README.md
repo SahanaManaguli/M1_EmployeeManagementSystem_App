@@ -5,13 +5,13 @@
 
 
  ## High Level Requirements
- |ID |
- |HLR1|
-   The Application should allow user to enter info.
-  The Application should allow user to list all the employee records.	
-  The Application should allow user to modify the employee record.
-  The Application should allow user to delete employee records.
-  The Application should allow user to exit from application.
+ |ID  |DESCRIPTION                                                        |STATUS     |
+ |:---|:------------------------------------------------------------------|:----------| 
+ |HLR1|The Application should allow user to enter info.                   |Implemented|
+ |HLR2|The Application should allow user to list all the employee records |Implemented|
+ |HLR3| The Application should allow user to modify the employee record   |Implemented|
+ |HLR4| The Application should allow user to delete employee records      |Implemented|
+ |HLR4| The Application should allow user to exit from application        |Implemented|
 
 
  ## Low Level Requirements
