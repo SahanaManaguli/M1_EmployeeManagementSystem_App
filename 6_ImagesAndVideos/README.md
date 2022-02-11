@@ -12,5 +12,5 @@
 
 
 # Exiting From Application
-![Screenshot (450)](https://user-images.githubusercontent.com/98841253/153532800-622cceca-2745-458c-a6bf-59138d12edc4.png)
+![exit](https://user-images.githubusercontent.com/98841253/153550684-de8a2375-0000-47cf-a734-cd980467c362.jpg)
 
