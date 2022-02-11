@@ -4,7 +4,12 @@ The mini-project “Employee Record System Project in C” is a console applicat
 ## FOLDER STRUCTURE
 |FOLDER          |DESCRIPTION                                                    |
 |:---------------|:--------------------------------------------------------------|
-|0_Certificates  |Documents of certificates and screenshots respect to C language|
-|1_Requirements  |
+|0_Certificates  |Documents of certificates and screenshots with respect to C language|
+|1_Requirements  |Description of project,High level and low level requirements,SWOT analysis and 4W'S&1H|
+|2_Architecture  |Documentation of Behaviorl and Structural Diagrams with respect HLR and LLR|
+|3_Implementation|All codes  and documentation of makefile,inc,src etc|
+|4_Report        |Documentation of all folders and videos of mini project|
+|5_ImagesandVideos|Documentation of screenshots of result and videos|
+|6_Others         |Documentation of references and data sheets|
 
 
