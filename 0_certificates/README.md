@@ -6,7 +6,9 @@
 [SahanaManaguli-NDG Linux Unhatc-certificate.pdf](https://github.com/SahanaManaguli/M1_ProjectGoal_App/files/8010118/SahanaManaguli-NDG.Linux.Unhatc-certificate.pdf)
 
 * Screenshot of github learning
-[GitLearn](https://user-images.githubusercontent.com/98841253/152682899-85155109-dd65-42d8-b4f3-c6a3a77e39ba.JPG)
+![github_learn](https://user-images.githubusercontent.com/98841253/153252490-03bf9020-fe72-4bf7-bfdd-e0f43aa317b4.jpg)
+
+
 
 
 * Screenshot of Hackerearth Points
