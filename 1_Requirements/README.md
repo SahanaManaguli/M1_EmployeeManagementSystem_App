@@ -5,18 +5,28 @@
 
 
  ## High Level Requirements
- * The Application should allow user to enter info.
- * The Application should allow user to list all the employee records.	
- * The Application should allow user to modify the employee record.
- * The Application should allow user to delete employee records.
- * The Application should allow user to exit from application.
+ |ID  |DESCRIPTION                                                        |STATUS     |
+ |:---|:------------------------------------------------------------------|:----------| 
+ |HLR1|The Application should allow user to enter info.                   |Implemented|
+ |HLR2|The Application should allow user to list all the employee records |Implemented|
+ |HLR3| The Application should allow user to modify the employee record   |Implemented|
+ |HLR4| The Application should allow user to delete employee records      |Implemented|
+ |HLR4| The Application should allow user to exit from application        |Implemented|
 
 
  ## Low Level Requirements
- * The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.	
- * The application will show all details of employees.
- * The application will ask user enter name (for modifying).
- * The application will ask user to enter name (for deleting).
+ |ID  |DESCRIPTION                                                        |STATUS     |
+ |:---|:------------------------------------------------------------------|:----------|
+ |HLR1|The application ask use to choose between 1 to 5                   |Implemented|
+ |    |1.Add Record                                                       |           |
+ |    |2.List Record                                                      |           |
+ |    |3.Modify Record                                                    |           |
+ |    |4.Delete Record                                                    |           |
+ |    |5.Exit                                                             |           |
+ |HLR2|The application will ask user to enter info such as Enter name, Enter Salary,and Enter Age|Implemented|
+ |HLR3|The application will show all details of employees                 |Implemented|
+ |HLR4|The application will ask user enter name (for modifying)           |Implemented|
+ |HLR5|The application will ask user to enter name (for deleting)         |Implemented|
 
  ## SWOT Analysis
 
