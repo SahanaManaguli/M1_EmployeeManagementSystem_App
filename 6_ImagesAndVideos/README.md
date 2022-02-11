@@ -8,7 +8,9 @@
 ![add](https://user-images.githubusercontent.com/98841253/153535224-124282bb-6225-430c-bf17-61327b0e169d.jpg)
 
 # Deleting Employee Information
-![Screenshot (449)](https://user-images.githubusercontent.com/98841253/153532673-fcb590cb-29e9-4d06-8326-2e1e9ad60971.png)
+![delete](https://user-images.githubusercontent.com/98841253/153535487-3266ffe1-66a4-4bf2-9f14-b57182e9f0cb.jpg)
+
+
 # Exiting From Application
 ![Screenshot (450)](https://user-images.githubusercontent.com/98841253/153532800-622cceca-2745-458c-a6bf-59138d12edc4.png)
 
