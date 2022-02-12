@@ -4,7 +4,7 @@ The mini-project “Employee Record System Project in C” is a console applicat
 
 |Codacy|codiga|
 |:-----|:-----|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2903e49a5b6345fda62c7b4171d3da75)](https://www.codacy.com/gh/SahanaManaguli/M1_EmployeeManagementSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SahanaManaguli/M1_EmployeeManagementSystem_App&amp;utm_campaign=Badge_Grade)|![Codiga Badge]https://api.codiga.io/project/31195/status/svg|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2903e49a5b6345fda62c7b4171d3da75)](https://www.codacy.com/gh/SahanaManaguli/M1_EmployeeManagementSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SahanaManaguli/M1_EmployeeManagementSystem_App&amp;utm_campaign=Badge_Grade)|![Codiga Badge](https://api.codiga.io/project/31195/status/svg)|
 
 ## FOLDER STRUCTURE
 |FOLDER          |DESCRIPTION                                                    |
