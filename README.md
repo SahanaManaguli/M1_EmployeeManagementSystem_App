@@ -1,5 +1,8 @@
 # M1_EmployeeManagementSystem_App
 The mini-project “Employee Record System Project in C” is a console application using the C programming language. This project compiled in visual studio with linux environment and GCC compiler. In this  application, you can do basic Employee Record tasks like adding the employee info, list the added employee, search the employees and deleting the employee records. This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc. Good thing is that “Employee Management System " is password-protected, so only authorized persons able to login to this application. Also to increase the readability, I have broken the application in different functions. Each function of the project extensively use in the file handing function, so it is also a great project to understand file handling in C.
+## Code Analysis
+#Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2903e49a5b6345fda62c7b4171d3da75)](https://www.codacy.com/gh/SahanaManaguli/M1_EmployeeManagementSystem_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SahanaManaguli/M1_EmployeeManagementSystem_App&amp;utm_campaign=Badge_Grade)
 
 ## FOLDER STRUCTURE
 |FOLDER          |DESCRIPTION                                                    |
