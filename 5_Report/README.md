@@ -83,4 +83,11 @@ This project is implemented for storing the employee information,modifying and d
 ![FlowChart](https://user-images.githubusercontent.com/98841253/153235467-9bfa8b5b-4699-4c30-b671-34c9305a8009.png)
 ## Low Level
 ![Behave_low](https://user-images.githubusercontent.com/98841253/153236224-8f0315d8-8fb3-48f7-abb0-d87c7e6dad20.JPG)
+##Structural Diagrams
+## High Level
+![structure_high](https://user-images.githubusercontent.com/98841253/153236512-53ac1ec4-fc1b-4420-b34a-133365a8405d.JPG)
+
+## Low Level
+![structure_low](https://user-images.githubusercontent.com/98841253/153236764-a7ef4dd7-1194-423f-8cbc-75f556df81c3.JPG)
+
 
