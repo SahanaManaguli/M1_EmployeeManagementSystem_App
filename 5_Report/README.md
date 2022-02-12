@@ -1,7 +1,7 @@
 ## Report
 
  #  Description
- * A Employee Record Management system is a software built to handle the primary housekeeping functions of a company. It help companies keep track of all the employees and their records. It is used to manage the company using computerized system.
+ * A Employee Record Management system is a software built to handle the primary housekeeping functions of a company. It help companies to keep track of all the employees and their records. It is used to manage the company using computerized system.
  
  # Requirements
 
@@ -19,7 +19,7 @@
  ## Low Level Requirements
  |ID  |DESCRIPTION                                                        |STATUS     |
  |:---|:------------------------------------------------------------------|:----------|
- |HLR1|The application ask use to choose between 1 to 5                   |Implemented|
+ |HLR1|The application ask user to choose between 1 to 5                   |Implemented|
  |    |1.Add Record                                                       |           |
  |    |2.List Record                                                      |           |
  |    |3.Modify Record                                                    |           |
@@ -57,7 +57,7 @@
  The Employee record management leaks outward into new spaces, spaces which it didn’t inhabit before, such as reading ,modify and delete the records of employees.
   
 # Threats
-Employee Record sytem now send and retrieve data from databases to help better manage inventory and the like, but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
+Employee Record sytem now send and retrieve data from databases to help better manage inventory but some libraries don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
 
 
 
