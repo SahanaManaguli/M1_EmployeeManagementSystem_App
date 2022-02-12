@@ -89,6 +89,22 @@ This project is implemented for storing the employee information,modifying and d
 ![FlowChart](https://user-images.githubusercontent.com/98841253/153235467-9bfa8b5b-4699-4c30-b671-34c9305a8009.png)
 ## Low Level
 ![Behave_low](https://user-images.githubusercontent.com/98841253/153236224-8f0315d8-8fb3-48f7-abb0-d87c7e6dad20.JPG)
+# Test Plan 
+
+TEST ID| TEST CASE OBJECTIVE| INPUT DATA   | EXPECTED OUTPUT| ACTUAL OUTPUT| STATUS|
+|:-----|:-------------------|:-------------|:---------------|:-------------|:------|
+|TC_1  |for entering name   |enter name:abc|  xyz           | xyz          |PASS   |
+|TC_2  |for entering name   |enter name:abc|xyz             |-             |FAIL   |
+|TC_3  |for entering age    |enter age:22  |22              |22            |PASS   |
+|TC_4  |for entering age    |enter age:22  |22              |-             |FAIL   |
+|TC_5  |for entering salary |enter salary:10000|10000       |10000         |PASS   |
+|TC_6  |for entering salary |enter salary:10000|10000       |-             |FAIL   |
+|TC_7  |for listing record  |xyz 22 10000  |xyz 22 10000    |xyz 22 10000  |PASS   |
+|TC_8  |for listing record  |xyz 22 10000  |xyz 22 10000    |xyz 10000 22  |FAIL   |
+|TC_9  |for listing record  |xyz 22 10000  |xyz 22 10000    |22 xyz 10000  |FAIL   |
+|TC_10 |for deleting record |xyz           |xyz             |xyz           |PASS   |
+|TC_11 |for deleting record |xyz           |xyz             |pqr           |FAIL   |
+
 
 
 
