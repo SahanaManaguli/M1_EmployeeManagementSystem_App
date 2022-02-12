@@ -20,8 +20,8 @@ The mini-project “Employee Record System Project in C” is a console applicat
 
 
 ## References
-[!Reference_1](https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html)
+[Reference_1](https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html)
 
-![Reference_2](https://github.com/raagavardhini/Stepin-Employee-Record-System)
+[Reference_2](https://github.com/raagavardhini/Stepin-Employee-Record-System)
 
 
