@@ -8,6 +8,8 @@ The mini-project “Employee Record System Project in C” is a console applicat
 
 #Codiga
 
+https://app.codiga.io/public/project/31195/M1_EmployeeManagementSystem_App/dashboard
+
 https://api.codiga.io/project/31195/score/svg
 
 ## FOLDER STRUCTURE
