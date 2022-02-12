@@ -121,6 +121,12 @@ TEST ID| TEST CASE OBJECTIVE| INPUT DATA   | EXPECTED OUTPUT| ACTUAL OUTPUT| STA
 # Exiting From Application
 ![add](https://user-images.githubusercontent.com/98841253/153535224-124282bb-6225-430c-bf17-61327b0e169d.jpg)
 
+## References
+[Reference_1](https://followtutorials.com/2011/08/mini-project-employee-record-system-using-c.html)
+
+[Reference_2](https://github.com/raagavardhini/Stepin-Employee-Record-System)
+
+
 
 
 
