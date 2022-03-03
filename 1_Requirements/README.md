@@ -1,5 +1,6 @@
  #  Description
  * A Employee Record Management system is a software built to handle the primary housekeeping functions of a company. It help companies to keep track of all the employees and their records. It is used to manage the company using computerized system.
+ * This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc. Good thing is that “Employee Record System Project” is password-protected, so only authorized persons able to login to this application.
  
  # Requirements
 
