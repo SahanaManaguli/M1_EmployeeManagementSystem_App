@@ -12,4 +12,4 @@ TEST ID| TEST CASE OBJECTIVE| INPUT DATA   | EXPECTED OUTPUT| ACTUAL OUTPUT| STA
 |TC_8  |for listing record  |xyz 22 10000  |xyz 22 10000    |xyz 10000 22  |FAIL   |
 |TC_9  |for listing record  |xyz 22 10000  |xyz 22 10000    |22 xyz 10000  |FAIL   |
 |TC_10 |for deleting record |xyz           |xyz             |xyz           |PASS   |
-|TC_11 |for deleting record |xyz           |xyz             |pqr           |FAIL   |
+|TC_11 |for deleting record |xyz           |xyz             |rst          |FAIL   |
